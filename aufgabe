@@ -1,0 +1,7 @@
+Tipi das Zelt
+
+Aufgabe Schreibe eine Klasse Zähler.Das Zählerobjekt (am Zelteingang)
+soll mitzahlen, wie viele Zuschauer in das Zelt reingelassen werden .
+Genau 100 ZUSCHAUER dürfen rein mehr ist feuerwehrtechnisch verboten.
+Der Zähler soll eine Warnung ausgeben, falls mehr Personen in das
+Zelt wollen .Dies muss verhindert werden.
